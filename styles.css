@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
+
+@font-face {
+    font-family: Arista;
+    src: url("/assets/css/fonts/arista.ttf");
+}
+
+@font-face {
+    font-family: AristaFilled;
+    src: url("/assets/css/fonts/aristaFilled.ttf");
+}
+
+@font-face {
+    font-family: AristaLight;
+    src: url("/assets/css/fonts/aristaLight.ttf");
+}
+
