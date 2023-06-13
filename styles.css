@@ -14,3 +14,24 @@ nav{
     display: flex;
 }
 
+video {
+    margin-top: 50px;
+}
+
+.wrap {
+    color: rgb(245, 4, 144);
+    width: 1350px;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url(imagenes/playa.jpg);
+    background-size: cover;  
+   
+}
+
+p {
+    font-family: lobster;
+    font-size: 50px;
+    
+}
